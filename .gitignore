@@ -1,3 +1,11 @@
+# Idea
 .idea/
+out/
 leetcoder.iml
 
+# Src
+src/Main.java
+src/Solution.java
+
+# Root
+input.txt
