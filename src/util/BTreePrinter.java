@@ -6,6 +6,11 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * 二叉树 树形打印
+ *
+ * <a href="https://stackoverflow.com/questions/4965335/how-to-print-binary-tree-diagram-in-java">StackOverFlow</a>
+ */
 class BTreePrinter {
     public static void print(TreeNode root) {
         int maxLevel = BTreePrinter.maxLevel(root);

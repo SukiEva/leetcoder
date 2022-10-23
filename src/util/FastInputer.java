@@ -7,6 +7,8 @@ import java.util.StringTokenizer;
 
 /**
  * Java 快读
+ *
+ * ACM模式可用，万一玄学过了呢！
  */
 public class FastInputer {
     private final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));

@@ -9,6 +9,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * 万能输入
+ */
 public class Inputer {
     public static final Scanner cin = new Scanner(System.in);
 

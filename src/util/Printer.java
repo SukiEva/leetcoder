@@ -5,6 +5,9 @@ import pojo.TreeNode;
 
 import java.util.Arrays;
 
+/**
+ * 万能输出
+ */
 public class Printer {
     public static void print() {
         print("Hello world!");

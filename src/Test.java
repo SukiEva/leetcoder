@@ -20,6 +20,8 @@ public class Test {
     public static void main(String[] args) {
         Scanner cin = Inputer.cin;
         ListNode root = nextNode();
+        // Solution solution = new Solution();
+        // print(solution.xxx(cin.nextInt(),nextArray()));
         print(root);
     }
 }
